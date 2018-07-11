@@ -1,0 +1,49 @@
+This is my second commitment of all that has been done so far. 06 07 2018
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch dev
+# Changes to be committed:
+#	new file:   conditional.py
+#	new file:   for_loop.py
+#	new file:   letters.py
+#	new file:   my_maths.py
+#	modified:   my_work.py
+#	new file:   my_work2.py
+#	new file:   my_work_functions.py
+#	new file:   my_work_while_and_functions.py
+#	new file:   person.py
+#	new file:   stars.py
+#	new file:   while_loop.py
+#
+# Untracked files:
+#	.WolframEngine/
+#	.Xauthority
+#	.bash_history
+#	.bash_logout
+#	.bashrc
+#	.cache/
+#	.config/
+#	.dmrc
+#	.gitconfig
+#	.gtkrc-2.0
+#	.idlerc/
+#	.local/
+#	.oracle_jre_usage/
+#	.pki/
+#	.profile
+#	.python_history
+#	.themes/
+#	.thonny/
+#	.thumbnails/
+#	.xsession-errors
+#	.xsession-errors.old
+#	Desktop/
+#	MagPi/
+#	^X
+#	functions_lab
+#	log
+#	myself.pic
+#	python_games/
+#	sc1.sch
+#	start
+#
